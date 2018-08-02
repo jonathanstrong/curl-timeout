@@ -1,0 +1,8 @@
+[package]
+name = "curl-timeout"
+version = "0.1.0"
+authors = ["Jonathan Strong <jonathan.strong@gmail.com>"]
+
+[dependencies]
+curl = "0.4"
+thhp = "0.1.1"
